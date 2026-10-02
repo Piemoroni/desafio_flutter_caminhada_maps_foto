@@ -198,6 +198,8 @@ flutter run
 | :---: | :---: | :---: |
 | ![Foto](assets/prints/fotoE.png) | ![Caminhada](assets/prints/caminhadaE.png) | ![Registro sem Foto](assets/prints/comE.png) |
 
-| 10. Mensagem de sair| 
+# Mensagem de Saída
+
+| 1. Mensagem de sair| 
 | :---: |
 | ![Foto](assets/prints/sair.png) | 
